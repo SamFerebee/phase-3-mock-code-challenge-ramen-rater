@@ -60,7 +60,7 @@ As a user, I can:
   <label for="rating">Rating: </label>
   <input type="number" name="rating" id="new-rating" />
   <label for="new-comment">Comment: </label>
-  <textarea name="new-comment" id="new-comment">Insert Comment Here</textarea>
+  <textarea name="new-comment" id="new-comment" placeholder = "Comment Here"></textarea>
   <input type="submit" value="Create" />
 </form>
 ```
